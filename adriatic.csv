@@ -1,0 +1,322 @@
+SITENAME,LAYER,COUNTRY,REGION,technocomplex,TC_ID,LEP,DATETYPE,LABID,C14AGE,C14STD,REFS,LON,LAT,quality
+?andalja II,H,Croatia,E,Aurignacian,?,,AMS,OxA-23376,42300,1500,Vander Linden (unpublished),13.8967,44.8825,3
+Blazi cave,4 (trench 1),Albania,E,Aurignacian,?,,AMS,COL1958.1.1,40713,827,Hauck et al. 2016,20.01013,41.71206,3
+Bukovac,C (outside trench),Croatia,E,Early Upper Palaeolithic,OK,,AMS,UBA 24514,39871,835,Jankovi? et al. 2018,14.765,45.354,1
+Blazi cave,4 (trench 1),Albania,E,Aurignacian,?,,AMS,COL1956.1.1,39648,722,Hauck et al. 2016,20.01013,41.71206,3
+Riparo Broion,1g,Italy,W,Uluzzian,OK,,AMS,OxA-35527,38900,1000,Peresani et al. 2019,11.5926,45.485,5
+Grotta di Paina,9,Italy,W,Aurignacian,OK,,AMS,UtC-2695,38600,1400,Mussi 2001,11.5309,45.4405,1
+Grotta di Paina,9,Italy,W,Aurignacian,OK,,AMS,UtC-2042,37900,800,Mussi 2001,11.5309,45.4405,1
+Romualdova pe?ina,9c2,Croatia,E,Aurignacian,?,,AMS,Poz-80124,37500,900,Jankovic et al. (unpublished),13.7373,45.1275,5
+Fumane (only validate dates),A2,Italy,W,Proto-Aurignacian,OK,,AMS,OxA-19584,35850,310,Higham et al. 2009,10.96664,45.50618,1
+Fumane (only validate dates),A2,Italy,W,Proto-Aurignacian,OK,,AMS,OxA-17569,35640,220,Higham et al. 2009,10.96664,45.50618,1
+Fumane (only validate dates),A2,Italy,W,Proto-Aurignacian,OK,,AMS,OxA-17570,35180,220,Higham et al. 2009,10.96664,45.50618,1
+Fumane (only validate dates),A2,Italy,W,Proto-Aurignacian,OK,,AMS,OxA-19412,34940,280,Higham et al. 2009,10.96664,45.50618,1
+Grotta Paglicci,24,Italy,W,Aurignacian,OK,,AMS,UtC-????,34300,800,Mussi et al. 2006,15.615192,41.653984,1
+Fumane (only validate dates),A2,Italy,W,Proto-Aurignacian,OK,,AMS,OxA-19414,34180,270,Higham et al. 2009,10.96664,45.50618,1
+Fumane (only validate dates),D3b?,Italy,W,Aurignacian,OK,,AMS,OxA-17981,33890,220,Higham et al. 2009,10.96664,45.50618,1
+Velika pecina,i,Croatia,E,Early Upper Paleolithic (Aurignacian?),?,,non-AMS,GrN-4979,33850,520,Malez and Vogel 1970,15.56333333,44.03166667,4
+Rastu?a,Trench 1 (layer 14),Bosnia and Herzegovina,E,Middle Palaeolithic,?,,AMS,OxA-23605,33700,550,Vander Linden (unpublished),17.59,44.42,4
+?andalja II,F,Croatia,E,Aurignacian,?,,AMS,OxA-2373-49,33355,290,Richards et al. 2015,13.8967,44.8825,1
+Rastu?a,Trench 1 (layer 14),Bosnia and Herzegovina,E,Middle Palaeolithic,?,,AMS,OxA-23604,32650,450,Vander Linden (unpublished),17.59,44.42,4
+Riparo Broion,1g,Italy,W,Uluzzian,?,,AMS,UtC-11790,32100,400,Peresani et al. 2019,11.5926,45.4852,5
+Salitrena pecina,5a,Serbia,E,Aurignacian,OK,,AMS,Beta-237688,31980,360,Mar°n-Arroyo and Mihailovic 2017,19.87943,44.0794,1
+Riparo Broion,1g,Italy,W,Uluzzian,?,,AMS,UtC-12509,31700,400,Peresani et al. 2019,11.5926,45.4852,5
+Fumane (only validate dates),D1d,Italy,W,Gravettian,?,,AMS,OxA-17571,31590,160,Higham et al. 2009,10.96664,45.50618,1
+Fumane (only validate dates),D1d,Italy,W,Gravettian,?,,AMS,OxA-11348,31490,250,Higham et al. 2009,10.96664,45.50618,1
+Bukovac,4 (inside trench),Croatia,E,no artefacts,?,,AMS,Beta 291915,31360,260,Jankovi? et al. 2018,14.765,45.354,5
+Bukovac,4A (inside trench),Croatia,E,no artefacts,?,,AMS,Beta 287819,31030,250,Jankovi? et al. 2018,14.765,45.354,5
+Romualdova pe?ina,11,Croatia,E,Aurignacian,?,,AMS,Poz-80895,30850,310,Jankovic et al. (unpublished),13.7373,45.1275,3
+Riparo Broion,1g,Italy,W,Uluzzian,?,,AMS,UtC-11792,30480,300,Peresani et al. 2019,11.5926,45.4852,5
+Bukovac,3 (inside trench),Croatia,E,Aurignacian,OK,,AMS,Beta 291915,30360,190,Jankovi? et al. 2018,14.765,45.354,1
+Salitrena pecina,5a,Serbia,E,Aurignacian,OK,,AMS,Beta-224720,30190,400,Mar°n-Arroyo and Mihailovic 2017,19.87944,44.0795,1
+Salitrena pecina,5a,Serbia,E,Aurignacian,OK,,AMS,OxA-27683,30150,150,Mar°n-Arroyo and Mihailovic 2017,19.87946,44.0797,1
+Salitrena pecina,2,Serbia,E,Aurignacian,OK,,AMS,Beta-237690,29980,280,Mar°n-Arroyo and Mihailovic 2017,19.87947,44.0798,1
+Romualdova pe?ina,11,Croatia,E,Gravettian,?,,AMS,Poz-80125,29810,610,Jankovic et al. (unpublished),13.7373,45.1275,3
+Salitrena pecina,5a,Serbia,E,Aurignacian,OK,,AMS,OxA-27975,29700,340,Mar°n-Arroyo and Mihailovic 2017,19.87945,44.0796,1
+Vindija,Fd / d+G1,Croatia,E,Aurignacian,?,,AMS,OxA-34458,29500,400,Deviäse et al. 2017,16.088,46.305,5
+Rio Secco,6,Italy,W,Gravettian,OK,,AMS,MAMS-15907,29390,135,Talamo et al. 2014,12.9714,46.2809,1
+Grotta Paglicci,24,Italy,W,Aurignacian,OK,,AMS,UtC-????,29300,600,Mussi et al. 2006,15.615192,41.653984,5
+Blazi cave,3 (trench 1),Albania,E,Aurignacian,?,,AMS,COL1957.1.1,29287,254,Hauck et al. 2016,20.01013,41.71206,3
+Buso doppio del Broion,1,Italy,W,Gravettian,OK,,AMS,ETH-79367,29001,123,Terlato et al. 2018,11.5926,45.4852,1
+Rio Secco,6,Italy,W,Gravettian,OK,,AMS,MAMS-15906,28995,135,Talamo et al. 2014,12.9714,46.2809,1
+Riparo Broion,1b,Italy,W,Gravettian,?,,AMS,UtC-13320,28460,260,Peresani et al. 2019,11.5926,45.4852,3
+Rio Secco,6,Italy,W,Gravettian,OK,,AMS,Poz-41208,28300,260,Peresani et al. 2014,12.9714,46.2809,1
+Grotta Paglicci,23,Italy,W,Early Gravettian,OK,,AMS,UtC-1414,28100,400,Palma di Cesnola 1993,15.615192,41.653984,1
+Romualdova pe?ina,9b,Croatia,E,Gravettian,?,,AMS,Poz-80123,28016,270,Jankovic et al. (unpublished),13.7373,45.1275,3
+Riparo Broion,1b?,Italy,W,Gravettian?,?,,AMS,UtC-10504,27960,300,Peresani et al. 2019,11.5926,45.485,3
+Velika pecina,g,Croatia,E,Upper Paleolithic (Aurignacian?),?,,non-AMS,Z-189,27300,1200,Srdo? et al. 1973,15.56333334,44.03166668,4
+Rio Secco,6,Italy,W,Gravettian,OK,,AMS,Poz-41207,27080,230,Peresani et al. 2014,12.9714,46.2809,1
+Grotta Paglicci,22b,Italy,W,Gravettian,OK,,AMS,UtC-1412,26800,300,Mussi 2000,15.615192,41.653984,1
+Vindija,Fd / d,Croatia,E,Aurignacian,?,,non-AMS,Z-2433,26600,930,Obeli? et al. 1994,16.088,46.305,5
+Abri Kontija,7.1,Croatia,E,Gravettian,?,,AMS,UBA-28896,26076,189,Jankovic et al. (unpublished),13.7183,45.1374,1
+Riparo Broion,1g,Italy,W,Uluzzian,?,,AMS,UtC-11791,25980,190,Peresani et al. 2019,11.5926,45.485,5
+Riparo Broion,1c,Italy,W,Gravettian,OK,,AMS,UtC-13321,25860,200,Peresani et al. 2019,11.5926,45.4852,1
+Abri Kontija,6,Croatia,E,Gravettian,?,,AMS,UBA-31999,25379,181,Jankovic et al. (unpublished),13.7183,45.1374,1
+Grotta di Santa Maria di Agnano,Ostuni 2,Italy,W,Gravettian,OK,,AMS,MAMS-11450,24910,125,Fu et al. 2016,17.57849,40.72894,1
+Grotta Paglicci,21d,Italy,W,Evolved Gravettian,OK,,non-AMS,F-55,24720,420,Radiocarbon 1974,15.615192,41.653984,2
+Crvena stijena,X,Montenegro,E,Gravettian,?,,AMS,OxA-23315,24440,190,Mercier et al. 2017,18.405,43.809,1
+Grotta di Santa Maria di Agnano,Ostuni 1,Italy,W,Gravettian,OK,,AMS,Gif-9247,24410,320,Vacca and Coppola 1993,17.57849,40.72894,1
+Grotta Paglicci,21c,Italy,W,Evolved Gravettian,OK,,non-AMS,F-53,24210,410,Radiocarbon 1974,15.615192,41.653984,3
+Kastritsa,stratum 9,Greece,E,Early Epigravettian? Gravettian?,?,,AMS,Beta-143312,23880,100,Galanidou and Tzedakis 2001,20.9166,39.6333,3
+Kastritsa,stratum 9,Greece,E,Early Epigravettian? Gravettian?,?,,AMS,Beta-143311,23840,240,Galanidou and Tzedakis 2001,20.9166,39.6333,3
+Grotta Paglicci,21c,Italy,W,Evolved Gravettian,OK,,non-AMS,F-54,23750,390,Radiocarbon 1974,15.615192,41.653984,2
+Grotta Paglicci,21b,Italy,W,Evolved Gravettian,OK,,non-AMS,F-52,23470,370,Radiocarbon 1974,15.615192,41.653984,2
+Grotta di Santa Maria di Agnano,Ostuni 1,Italy,W,Gravettian,OK,,AMS,MAMS-11449,23446,107,Fu et al. 2016,17.57849,40.72894,1
+Vrbicka,10,Montenegro,E,Gravettian,?,,AMS,OxA-27861,23120,160,Boric and Cristiani 2016,18.8705,42.8908,3
+Grotta Paglicci,21a,Italy,W,Evolved Gravettian,OK,,non-AMS,F-51,23040,380,Radiocarbon 1974,15.615192,41.653984,2
+Grotta Paglicci,20de,Italy,W,Evolved Gravettian,OK,,non-AMS,F-50,22630,390,Radiocarbon 1974,15.615192,41.653984,2
+Kastritsa,stratum 5,Greece,E,Early Epigravettian,?,,non-AMS,Beta-143310,22230,210,Galanidou and Tzedakis 2001,20.9166,39.6333,3
+Grotta Paglicci,20ca,Italy,W,Evolved Gravettian,OK,,non-AMS,F-48,22220,360,Radiocarbon 1974,15.615192,41.653984,2
+Grotta Paglicci,20cb,Italy,W,Evolved Gravettian,OK,,non-AMS,F-49,22110,330,Radiocarbon 1974,15.615192,41.653984,3
+Kastritsa,stratum 5,Greece,E,Early Epigravettian,OK,,AMS,Beta-131047,21350,80,Galanidou and Tzedakis 2001,20.9166,39.6333,1
+Grotta Paglicci,20b,Italy,W,Evolved Gravettian,OK,,non-AMS,F-47,21260,340,Radiocarbon 1974,15.615192,41.653984,2
+?andalja II,C/d,Croatia,E,Early Epigravettian,?,,non-AMS,Z-193,20750,400,Srdo? et al. 1973,13.8967,44.8825,2
+Grotta Paglicci,19a,Italy,W,Final Gravettian,?,,non-AMS,F-46,20730,290,Radiocarbon 1974,15.615192,41.653984,3
+Kastritsa,stratum 5,Greece,E,Early Epigravettian,OK,,AMS,Beta-143309,20590,70,Galanidou and Tzedakis 2001,20.9166,39.6333,1
+Grotta Paglicci,18b2b,Italy,W,Final Gravettian,?,,non-AMS,F-44,20200,305,Radiocarbon 1974,15.615192,41.653984,3
+Grotta Paglicci,18b3,Italy,W,Final Gravettian,?,,non-AMS,F-45,20160,310,Radiocarbon 1974,15.615192,41.653984,3
+Grotta di Paina,6,Italy,W,Early Epigravettian,OK,,AMS,UtC-2696,20120,220,Romandini and Nannini 2011,11.5309,45.4405,1
+Kastritsa,stratum 5,Greece,E,Early Epigravettian,OK,,AMS,Beta-132437,20000,80,Galanidou and Tzedakis 2001,20.9166,39.6333,1
+Grotta di Trene,B1,Italy,W,Early Epigravettian,OK,,AMS,ETH-79368,19948,55,Terlato et al. 2018,11.44616,45.43617,1
+Ponte di Pietra,UE 65-66,Italy,W,Early Epigravettian,?,,non-AMS,CRG-1018,19940,471,Lollini et al. 2005,13.016,43.45,3
+Vrbicka,2,Montenegro,E,Gravettian,?,,AMS,OxA-27827,19830,110,Boric et al. 2014,18.8705,42.8908,3
+Grotta di Paina,5,Italy,W,Late Epigravettian,?,,AMS,ETH-79366,19686,54,Terlato et al. 2018 (cultural ID Broglio 1988),11.5309,45.4405,4
+Grotta del Cavallo,D I (under CI tepha?),Italy,W,Uluzzian? Early Epigravettian?,?,,AMS,OxA-21072,19685,75,Benazzi et al. 2011,17.96092,40.15585,5
+Kastritsa,stratum 3,Greece,E,Early Epigravettian,OK,,AMS,Beta-143302,19660,160,Galanidou and Tzedakis 2001,20.9166,39.6333,1
+Grotta del Cavallo,D I (under CI tepha?),Italy,W,Uluzzian? Early Epigravettian?,?,,AMS,OxA-21072b,19635,75,Benazzi et al. 2011,17.96092,40.15585,5
+Ov?ja jama,4,Slovenia,E,Early Epigravettian,?,,non-AMS,KN-48,19540,500,Osole 1974,13.95037,45.92658,3
+Grotta Col della Stria,2 (base),Italy,W,Early Epigravettian,?,,AMS,?,19485,200,Romandini and Nannini 2011,,,1
+Grotta di Paina,6,Italy,W,Early Epigravettian,OK,,AMS,UtC-2043,19430,150,Romandini and Nannini 2011,11.5309,45.4405,1
+Kastritsa,stratum 1-3,Greece,E,Early Epigravettian,OK,,AMS,Beta-143301,19360,160,Galanidou and Tzedakis 2001,20.9166,39.6333,1
+Grotta di Trene,B2,Italy,W,Early Epigravettian,OK,,non-AMS,?,18630,150,Nannini et al. 2012,11.44616,45.43617,3
+Ponte di Pietra,UE 65-66,Italy,W,Early Epigravettian,?,,non-AMS,CRG-1019,18515,618,Lollini et al. 2005,13.016,43.45,3
+Vindija,E,Croatia,E,Epigravettian,OK,,non-AMS,Z-2447,18500,300,Obeli? et al. 1994,16.088,46.305,4
+Fosso Mergaoni,UtC-11551,Italy,W,Early Epigravettian,OK,,AMS,UtC-11551,18160,240,Silvestrini et al. 2005,13.02847,43.43716,3
+Riparo Broion,1b,Italy,W,Early Epigravettian,?,,AMS,UtC-10506,17830,100,Peresani et al. 2019,11.5926,45.4852,3
+Grotta di Trene,B1,Italy,W,Early Epigravettian,OK,,non-AMS,?,17640,140,Nannini et al. 2012,11.44616,45.43617,3
+Klithi,stratum 0001,Greece,E,Epigravettian,?,,AMS,OxA-137,17000,400,Bailey and Gamble 1990,20.66364,39.968089,1
+Grotta Col della Stria,2cl,Italy,W,Early Epigravettian,?,,AMS,?,16802,90,Romandini and Nannini 2011,,,1
+Grotta Paglicci,17f,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14877,16790,160,see Ricci et al. 2016,15.615192,41.653984,2
+Grotta Paglicci,16a,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14325,16690,150,,15.615192,41.653984,2
+Klithi,stratum 0005,Greece,E,Epigravettian,?,,AMS,OxA-2971,16650,190,OxA datelist 31 (2002),20.66364,39.968089,1
+Grotta di Pozzo,?,Italy,W,Early Epigravettian,OK,,AMS,AA-78134,16495,90,Serradimigni- 2013,13.67165,41.97537,1
+Klithi,Core 3,Greece,E,Epigravettian,?,,AMS,OxA-1092,16490,220,Bailey and Gamble 1990,20.66364,39.968089,5
+Grotta Paglicci,16b,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14326,16450,190,,15.615192,41.653984,2
+Vlakno cave,32 (under tephra NYT),Croatia,E,Early Epigravettian,OK,,AMS,Beta-302247,16330,70,Malnar 2017; Cvitkusic et al. 2018 (QI),15.0302,44.03321,3
+Grotta Paglicci,13b,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14319,16310,350,,15.615192,41.653984,2
+Klithi,stratum 0001,Greece,E,Epigravettian,?,,AMS,OxA-136,16300,400,Bailey and Gamble 1990,20.66364,39.968089,1
+Grotta Paglicci,15b,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14324,16260,160,,15.615192,41.653984,2
+Klithi,stratum 0004,Greece,E,Epigravettian,?,,AMS,OxA-2327,16250,170,OxA datelist 11 (1990),20.66364,39.968089,1
+Vela spila,LUP-A,Croatia,E,Early Epigravettian,?,,AMS,VERA-2338,16140,60,Farbstein et al. 2012,16.72004,42.9664,1
+Klithi,stratum 0005,Greece,E,Epigravettian,?,,AMS,OxA-2972,16140,150,OxA datelist 31 (2002),20.66364,39.968089,1
+Megalakkos,Unit G (or 4),Greece,E,Epigravettian,OK,,AMS,OxA-1249,16100,160,Ross 2001,20.7084,39.9571,1
+Taurisano,6_9,Italy,W,Early Epigravettian,OK,,non-AMS,R-1062,16050,160,Radiocarbon 1978,18.1833,40.3833,3
+Grotta Col della Stria,2cl,Italy,W,Early Epigravettian,?,,AMS,?,16037,100,Romandini and Nannini 2011,,,1
+Grotta Paglicci,13d,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14321,16030,190,,15.615192,41.653984,2
+Taurisano,18_22,Italy,W,Early Epigravettian,OK,,non-AMS,R-1064,16000,150,Radiocarbon 1978,18.1833,40.3833,5
+Grotta Paglicci,13c,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14320,15990,160,,15.615192,41.653984,2
+?andalja II,H,Croatia,E,Aurignacian,?,,AMS,OxA-23377,15965,75,Vander Linden (unpublished),13.8967,44.8825,3
+Klithi,stratum 0006,Greece,E,Epigravettian,?,,AMS,OxA-1746,15960,200,Bailey and Gamble 1990,20.66364,39.968089,1
+Klithi,stratum 0006,Greece,E,Epigravettian,?,,AMS,OxA-2330,15960,130,OxA datelist 11 (1990),20.66364,39.968089,1
+Grotta Paglicci,12a,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14316,15950,350,,15.615192,41.653984,2
+Klithi,stratum 0006,Greece,E,Epigravettian,?,,AMS,OxA-2332,15950,120,OxA datelist 11 (1990),20.66364,39.968089,1
+Grotta Paglicci,14b,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14322,15930,200,see Ricci et al. 2016,15.615192,41.653984,2
+Kastritsa,stratum 1,Greece,E,Late Epigravettian,?,,AMS,Beta-143304,15930,130,Galanidou and Tzedakis 2001,20.9166,39.6333,1
+Grotta delle Mura,LM 4,Italy,W,Early Epigravettian,OK,,AMS,Beta-1713539,15860,80,Morabito et al. 2017,17.3,40.95,1
+Grotta di Pozzo,III (PS?),Italy,W,Early Epigravettian,OK,,AMS,LTL-1363A,15790,90,Mussi et al. 2011,13.67165,41.97413,1
+Grotta Paglicci,15a,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14323,15750,160,,15.615192,41.653984,2
+Grotta Paglicci,12c,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14317,15730,330,see Ricci et al. 2016,15.615192,41.653984,2
+Blazi cave,2 (trench 1),Albania,E,Epigravettian,OK,,AMS,COL1959.1.1,15727,85,Hauck et al. 2016,20.01013,41.71206,1
+Vela spila,LUP-A,Croatia,E,Early Epigravettian,?,,AMS,VERA-2339,15690,70,Farbstein et al. 2012,16.72004,42.9664,1
+Taurisano,10_12,Italy,W,Early Epigravettian,OK,,non-AMS,R-1063,15600,120,Radiocarbon 1978,18.1833,40.3833,5
+Klithi,Core 2,Greece,E,Epigravettian,?,,AMS,OxA-1155,15600,160,Bailey and Gamble 1990,20.66364,39.968089,5
+Klithi,stratum 0006,Greece,E,Epigravettian,?,,AMS,OxA-2329,15580,380,OxA datelist 11 (1990),20.66364,39.968089,1
+Taurisano,4_5,Italy,W,Late Epigravettian,OK,,non-AMS,R-1061,15550,150,Radiocarbon 1978,18.1833,40.3833,5
+Grotta Paglicci,13a,Italy,W,Early Epigravettian,OK,,non-AMS,GrN-14318,15480,150,,15.615192,41.653984,2
+Grotta Paglicci,8,Italy,W,Early Epigravettian,?,,non-AMS,F-66,15460,220,Radiocarbon 1977,15.615192,41.653984,2
+Klithi,stratum 0005,Greece,E,Epigravettian,?,,AMS,OxA-2328,15460,260,OxA datelist 11 (1990),20.66364,39.968089,4
+Megalakkos,Unit C (or 2),Greece,E,Epigravettian,OK,,AMS,OxA-1093,15410,210,Ross 2001,20.7084,39.9571,1
+Blazi cave,3 (trench 5),Albania,E,Epigravettian,OK,,AMS,Beta-426501,15360,50,Hauck et al. 2017,20.01013,41.71206,1
+Badanj u Pokriveniku,Mixed layer,Croatia,E,Late Epigravettian,?,,AMS,TO-3427,15350,110,Forenbaher 2002,16.8840,43.1489,3
+Grotta Paglicci,10,Italy,W,Early Epigravettian,?,,non-AMS,F-68,15320,250,Radiocarbon 1977,15.615192,41.653984,2
+Grotta Paglicci,9,Italy,W,Early Epigravettian,?,,non-AMS,F-67,15270,220,Radiocarbon 1977,15.615192,41.653984,2
+Klithi,Core 3,Greece,E,Epigravettian,?,,AMS,OxA-1091,15220,200,Bailey and Gamble 1990,20.66364,39.968089,5
+Blazi cave,3 (trench 5),Albania,E,Epigravettian,OK,,AMS,Beta-426504,15140,50,Hauck et al. 2017,20.01013,41.71206,1
+Baracche,?,Italy,W,Late Epigravettian,?,,AMS,LTL172A,14929,110,Peresani et al. 2005,13.2167,43.3667,1
+Badanj u Pokriveniku,Mixed layer,Croatia,E,Late Epigravettian,?,,AMS,TO-3426,14920,100,Forenbaher 2002,16.8840,43.1489,3
+Grotta Paglicci,7,Italy,W,Late Epigravettian,OK,,non-AMS,F-65,14820,210,Radiocarbon 1977,15.615192,41.653984,2
+Campo delle Piane,?,Italy,W,Early Epigravettian,OK,,non-AMS,LY-2331,14810,120,Olive and Valentin 2005,13.9167,42.45,2
+Campo delle Piane,?,Italy,W,Early Epigravettian,OK,,AMS,GifA-99158,14590,120,Olive and Valentin 2005,13.9167,42.45,1
+Grotta di Pozzo,?,Italy,W,Epigravettian ,?,,AMS,AA-78135,14585,180,Serradimigni- 2013,13.67165,41.97475,1
+Klithi,stratum 0007,Greece,E,Epigravettian,?,,AMS,OxA-3732,14570,130,OxA datelist 31 (2002),20.66364,39.968089,1
+Vela spila,LUP-C,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-3993,14500,100,Farbstein et al. 2012,16.72004,42.9664,2
+Grotta La Punta,Taglio 39?,Italy,W,Epigravettian,?,,non-AMS,PI-152,14448,800,,13.51667,42.01667,3
+Blazi cave,2 (trench 5),Albania,E,Epigravettian,OK,,AMS,Beta-426506,14440,50,Hauck et al. 2017,20.01013,41.71206,1
+Badanj u Pokriveniku,Mixed layer,Croatia,E,Late Epigravettian,?,,AMS,TO-3425,14430,100,Forenbaher 2002,16.8840,43.1489,3
+Klithi,stratum 0006,Greece,E,Epigravettian,?,,AMS,OxA-2970,14290,140,Ross 2001,20.66364,39.968089,4
+Grotta Paglicci,6,Italy,W,Late Epigravettian,OK,,non-AMS,F-64,14270,230,Radiocarbon 1977,15.615192,41.653984,2
+Grotta Paglicci,18b2a,Italy,W,Final Gravettian,?,,non-AMS,F-43,14260,280,Radiocarbon 1974,15.615192,41.653984,5
+Romualdova pe?ina,Rock art IAC,Croatia,E,Late Epigravettian,?,,AMS,OxA-36127,14250,80,Ruiz-Redondo et al. 2019,13.7373,45.1275,3
+Klithi,stratum 0007,Greece,E,Epigravettian,?,,AMS,OxA-749,14200,200,Bailey and Gamble 1990,20.66364,39.968089,1
+Pozzo Zecca,Cuts I-II,Italy,W,Late Epigravettian,OK,,non-AMS,R-271,14170,170,Radiocarbon 1967,18.16667,39.93333,3
+Vela spila,LUP-D,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-3992,14100,100,Farbstein et al. 2012,16.72004,42.9664,2
+Grotta di Pozzo,III (PS?),Italy,W,Early Epigravettian,?,,AMS,GX-30436,14100,70,Mussi et al. 2011,13.67165,41.97351,1
+Zala,100,Croatia,E,Late Epigravettian,OK,,AMS,Beta-334806,14100,60,?o?i? Klind?i? et al. 2015a,15.289,45.284,1
+Klithi,stratum 0007,Greece,E,Epigravettian,?,,AMS,OxA-750,14060,200,Bailey and Gamble 1990,20.66364,39.968089,1
+Riparo Tagliente,13a alpha,Italy,W,Late Epigravettian,OK,ER1,AMS,LTL4441A,13986,60,Fontana et al.- 2012,11.02229,45.5254,1
+Romualdova pe?ina,Rock art IAC,Croatia,E,Late Epigravettian,?,,AMS,Beta-465338,13970,50,Ruiz-Redondo et al. 2019,13.7373,45.1275,3
+Klithi,stratum 0009,Greece,E,Epigravettian,?,,AMS,OxA-3941,13940,110,OxA datelist 31 (2002),20.66364,39.968089,1
+Klithi,stratum 0010,Greece,E,Epigravettian,?,,AMS,OxA-2834,13940,130,Ross 2001,20.66364,39.968089,1
+Pozzo Zecca,Cuts III-IV,Italy,W,Late Epigravettian,OK,,non-AMS,R-272,13870,110,Radiocarbon 1967,18.16667,39.93333,3
+Zala,12,Croatia,E,Late Epigravettian,OK,,AMS,Beta-228734,13840,50,Karavani? et al. 2007; 2008,15.289,45.284,1
+Boila,horizon II,Greece,E,Late Epigravettian,OK,,AMS,OxA-5246,13810,130,Gowlett et al. 1997; Kotjabopoulou et al. 1997 (in Bailey 1997),20.658938,39.966382,1
+Mali?ina stijena,3b1,Montenegro,E,Late Epigravettian,OK,,AMS,OxA-1895,13780,140,Mihailovic 1998,19.208,43.248,1
+riparo Ermanno di Pompeis,4,Italy,W,Late Epigravettian,OK,,AMS,LUNK-0894,13755,120,Serradimigni?,14.0383,42.18,2
+Klithi,stratum 0007,Greece,E,Epigravettian,?,,AMS,OxA-2331,13640,100,OxA datelist 11 (1990),20.66364,39.968089,4
+Grotta Paglicci,5b-c,Italy,W,Late Epigravettian,OK,,non-AMS,F-96,13590,200,Radiocarbon 1977,15.615192,41.653984,2
+Val Lastari,3D-Str. IV,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-2686,13450,130,see Naudinot et al. 2014,11.354,45.7966,1
+Riparo Tagliente,15-16,Italy,W,Late Epigravettian,OK,ER1,non-AMS,R-605a,13430,180,Radiocarbon 1970; see Naudinot et al. 2014,11.02229,45.5254,2
+Zala,102,Croatia,E,Late Epigravettian,OK,,AMS,Beta-334805,13340,60,?o?i? Klind?i? et al. 2015a,15.289,45.284,1
+Riparo Tagliente,15-16,Italy,W,Late Epigravettian,OK,ER1,non-AMS,R-605,13330,160,Radiocarbon 1970; see Naudinot et al. 2014,11.02229,45.5254,2
+Vela spila,LUP-E,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-3991,13300,100,Farbstein et al. 2012,16.72004,42.9664,2
+Riparo Tagliente,10e,Italy,W,Late Epigravettian,OK,ER2,AMS,OxA-3532,13270,170,Gazzoni et al 2013; see Naudinot et al. 2014,11.02229,45.5254,1
+Boila,horizon IIIa (bottom),Greece,E,Late Epigravettian,OK,,AMS,OxA-5242,13240,110,Kotjabopoulou et al. 1997 (in Bailey 1997),20.658938,39.966382,1
+Ljubi?eva pecina,Horizon D (niveau 4),Croatia,E,Late Epigravettian,OK,,AMS,Beta-249371,13230,70,Percan- Kom?o- Beki? 2009;  Simonet 2013,13.9518,44.9718,1
+Badanj,4,Bosnia and Herzegovina,E,Late Epigravettian,OK,,AMS,OxA-5859,13200,110,Bronk Ramsey et al. 2002,17.9,43.083333,3
+Badanj,13,Bosnia and Herzegovina,E,Late Epigravettian,OK,,AMS,OxA-2196,13200,150,Whallon 1999,17.9,43.083333,1
+Riparo Tagliente,Burial,Italy,W,Late Epigravettian,OK,,AMS,OxA-10672,13190,90,Gazzoni et al 2013,11.02229,45.5254,1
+Kopa?ina,140-160 cm,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-2403,13160,310,Miracle 1995; Forenbaher 2002,16.6372,43.32,3
+?andalja II,C/s,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-2424,13120,230,Obeli? et al. 1994,13.8967,44.8825,3
+Riparo Tagliente,10c,Italy,W,Late Epigravettian,OK,ER2,AMS,OxA-3531,13070,170,Gazzoni et al 2013; see Naudinot et al. 2014,11.02229,45.5254,1
+?andalja II,E,Croatia,E,Aurignacian,?,,AMS,OxA-23374,13060,60,Vander Linden (unpublished),13.8967,44.8825,3
+?andalja II,B/C,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-2423,13050,220,Obeli? et al. 1994,13.8967,44.8825,3
+Ljubi?eva pecina,?,Croatia,E,Late Epigravettian,OK,,AMS,LTL5775A,13017,65,Oros Sr?en et al. 2014,13.9518,44.9718,1
+?andalja II,C/s,Croatia,E,Late Epigravettian,OK,,AMS,oxA-26869,12940,55,Oros Sr?en et al. 2014,13.8967,44.8825,1
+Grotta Continenza,45,Italy,W,Late Epigravettian,OK,ER2,AMS,LTL6187a,12937,50,Boschian et al. 2017,13.5333,41.95,1
+Boila,horizon IIIa,Greece,E,Late Epigravettian,OK,,AMS,DEM-502,12901,157,Kotjabopoulou et al. 1999,20.658938,39.966382,1
+Verdi di  Pradis  R.I,1a,Italy,W,Late Epigravettian,OK,,AMS,LTL13259A,12832,50,see Naudinot et al. 2014,12.9313,46.2358,1
+Grotta di Pozzo,IV (PS6e),Italy,W,Late Epigravettian,OK,,AMS,AA-78136,12820,130,Mussi et al. 2011,13.67165,41.97289,1
+Vela spila,LUP-G,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-3989,12700,100,Farbstein et al. 2012,16.72004,42.9664,2
+?andalja II,B/C,Croatia,E,Late Epigravettian,OK,,AMS,oxA-26871,12680,55,Oros Sr?en et al. 2014,13.8967,44.8825,1
+Riparo Tagliente,10a,Italy,W,Late Epigravettian,OK,ER2,AMS,OxA-3530,12650,160,Gazzoni et al 2013; see Naudinot et al. 2014,11.02229,45.5254,1
+Grotta di Ortucchio,?,Italy,W,Late Epigravettian,OK,,non-AMS,Pi-23,12610,410,,13.64672,41.95611,2
+Grotta di Pozzo,IV (PS5),Italy,W,Late Epigravettian,OK,,AMS,GX-27907,12590,40,Mussi et al. 2011,13.67165,41.97227,1
+Nugljanska pe?,8,Croatia,E,Late Epigravettian,OK,,AMS,oxA-X-2462-22,12510,55,Pilaar Birch- Miracle 2015,14.0054,45.42896,1
+?andalja II,E,Croatia,E,Aurignacian,?,,AMS,OxA-23375,12505,55,Vander Linden (unpublished),13.8967,44.8825,3
+Ve?anska pe?,IX,Croatia,E,Late Epigravettian,OK,,AMS,oxA-8448,12490,100,Miracle- Forenbaher 2000,14.1539,45.3141,1
+Boila,horizon IIIa,Greece,E,Late Epigravettian,OK,,AMS,OxA-5241,12480,120,Gowlett et al. 1997; Kotjabopoulou et al. 1997 (in Bailey 1997),20.658938,39.966382,1
+Grotta Continenza,43,Italy,W,Late Epigravettian,OK,ER2,AMS,LTL1249a,12381,60,Boschian et al. 2017,13.5333,41.95,1
+Badanj,6,Bosnia and Herzegovina,E,Late Epigravettian,OK,,AMS,OxA-2197,12380,110,Whallon 1999,17.9,43.083333,1
+Grotta Continenza,39,Italy,W,Late Epigravettian,OK,ER2,AMS,LTL6188a,12353,60,Boschian et al. 2017,13.5333,41.95,1
+Vlakno cave,(under tephra NYT),Croatia,E,Late Epigravettian,OK,,AMS,Beta-277309,12350,70,Vujevi?- Parica 2011; Cvitkusic et al. 2018 (QI),15.0302,44.03321,3
+?andalja II,B/s,Croatia,E,Late Epigravettian,OK,,non-AMS,GrN-4978,12320,100,Malez- Vogel 1969,13.8967,44.8825,2
+Grotta di Pozzo,IV (PS1),Italy,W,Late Epigravettian,OK,,AMS,GX-27906,12320,50,Mussi et al. 2011,13.67165,41.97165,1
+Klithi,stratum 0008,Greece,E,Epigravettian,?,,AMS,OxA-502,12300,200,Bailey and Gamble 1990,20.66364,39.968089,4
+?andalja II,B/g,Croatia,E,Late Epigravettian,OK,,AMS,oxA-26874,12295,55,Oros Sr?en et al. 2014,13.8967,44.8825,1
+Vela spila,Tephra (NYT),Croatia,E,Late Epigravettian,OK,,AMS,VERA-2345,12290,40,Farbstein et al. 2012,16.72004,42.9664,1
+Verdi di  Pradis  R.I,1a,Italy,W,Late Epigravettian,OK,,AMS,LTL13258A,12273,50,see Naudinot et al. 2014,12.9313,46.2358,1
+Vela spila,Tephra (NYT),Croatia,E,Late Epigravettian,OK,,AMS,VERA-2346,12260,40,?e?uk- Radi? 2002; 2005,16.72004,42.9664,1
+Clusantin,4,Italy,W,Late Epigravettian,OK,ER2,non-AMS,LTL1216A,12256,85,see Naudinot et al. 2014,12.85552,46.2444,2
+Boila,horizon IIIa,Greece,E,Late Epigravettian,OK,,AMS,DEM-501,12233,221,Kotjabopoulou et al. 1999,20.658938,39.966382,1
+riparo Ermanno di Pompeis,4,Italy,W,Late Epigravettian,OK,,AMS,LTL524A,12140,100,Serradimigni,14.0383,42.18,1
+Vlakno cave,Stratum 5,Croatia,E,Late Epigravettian,OK,,AMS,Beta-414278,12100,40,Cvitkusic et al. 2018 (QI),15.0302,44.03321,1
+Vlakno cave,Stratum 5,Croatia,E,Late Epigravettian,OK,,AMS,Beta-414467,12080,40,Cvitkusic et al. 2018 (QI),15.0302,44.03321,1
+Villabruna A,14,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-1770,12050,110,see Naudinot et al. 2014,11.9412,46.094,1
+Villabruna A,16,Italy,W,Late Epigravettian,OK,ER2,non-AMS,R-2022,12040,125,see Naudinot et al. 2014,11.9412,46.094,2
+Villabruna A,17,Italy,W,Late Epigravettian,OK,ER2,non-AMS,R-2023,12040,150,see Naudinot et al. 2014,11.9412,46.094,2
+Riparo Tagliente,80000000000,Italy,W,Late Epigravettian,OK,ER2,non-AMS,R-371,12040,170,Radiocarbon 1970; see Naudinot et al. 2014,11.02229,45.5254,2
+?andalja II,B/C,Croatia,E,Late Epigravettian,OK,,AMS,oxA-26872,12035,55,Oros Sr?en et al. 2014,13.8967,44.8825,3
+Clusantin,4,Italy,W,Late Epigravettian,OK,ER2,non-AMS,LTL430A,12004,60,see Naudinot et al. 2014,12.85552,46.2444,2
+Riparo Tagliente,14,Italy,W,Late Epigravettian,OK,ER1,non-AMS,R-604,12000,400,Radiocarbon 1970; see Naudinot et al. 2014,11.02229,45.5254,5
+Grotta Continenza,44,Italy,W,Late Epigravettian,OK,ER2,AMS,LTL1250a,11983,80,Boschian et al. 2017,13.5333,41.95,1
+Kopa?ina,20-40 cm,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-2404,11980,270,Miracle 1995; Forenbaher 2002,16.6372,43.32,3
+Grotta Paglicci,4a-c,Italy,W,Late Epigravettian,OK,,non-AMS,F-95,11950,190,Radiocarbon 1977,15.615192,41.653984,2
+Villabruna A,13,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-1979,11910,120,see Naudinot et al. 2014,11.9412,46.094,1
+Villabruna A,10A,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-1771,11910,160,see Naudinot et al. 2014,11.9412,46.094,1
+Soman,inf,Italy,W,Late Epigravettian,OK,ER2,non-AMS,Gd-6158,11880,170,see Naudinot et al. 2014,10.8616,45.5993,2
+Clusantin,4,Italy,W,Late Epigravettian,OK,ER2,non-AMS,LTL1215A,11879,85,see Naudinot et al. 2014,12.85552,46.2444,2
+Grotta Romanelli,D,Italy,W,Late Epigravettian,OK,,AMS,LTL17738A,11858,85,Calcagnile et al. 2019,18.493,40.143,1
+Grotta Continenza,37,Italy,W,Late Epigravettian,OK,ER2,AMS,LY-10755,11830,110,Boschian et al. 2017,13.5333,41.95,1
+Grotta Romanelli,D,Italy,W,Late Epigravettian,OK,,AMS,LTL17297A,11829,80,Calcagnile et al. 2019,18.493,40.143,1
+Val Lastari,3D-Str. III,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-2687,11800,150,see Naudinot et al. 2014,11.354,45.7966,1
+Crvena stijena,VIII?,Montenegro,E,Late Epigravettian,?,,AMS,OxA-23343,11790,50,Mercier et al. 2017,18.405,43.809,3
+Verdi di  Pradis  R.I,2,Italy,W,Late Epigravettian,OK,,non-AMS,F-84,11770,260,see Naudinot et al. 2014,12.9313,46.2358,5
+Grotta La Punta,Base,Italy,W,Late Epigravettian,OK,,non-AMS,R-1272,11770,70,,13.51667,42.01667,2
+Crvena stijena,VIII,Montenegro,E,Late Epigravettian,OK,,AMS,OxA-23313,11755,55,Mercier et al. 2017,18.405,43.809,1
+Zemunica,143,Croatia,E,Late Epigravettian,OK,,AMS,Beta-218732,11740,90,?o?i? Klindzi?  et al. 2015,16.6665,43.5617,1
+Grotta Continenza,39,Italy,W,Late Epigravettian,OK,ER2,AMS,LY-10663,11725,65,Boschian et al. 2017,13.5333,41.95,1
+Vlakno cave,Stratum 5,Croatia,E,Late Epigravettian,OK,,AMS,Beta-385285,11710,40,Cvitkusic et al. 2018 (QI),15.0302,44.03321,1
+Grotta della Ferrovia,US 3,Italy,W,Late Epigravettian,OK,,non-AMS,R-1005,11700,200,Radiocarbon 1976,12.73,45.75,3
+Grotta Romanelli,D,Italy,W,Late Epigravettian,OK,,AMS,LTL17736A,11685,65,Calcagnile et al. 2019,18.493,40.143,1
+Grotta Continenza,40,Italy,W,Late Epigravettian,OK,ER2,AMS,LY-10754,11560,100,Boschian et al. 2017,13.5333,41.95,1
+Ve?anska pe?,II/3A,Croatia,E,Late Epigravettian,OK,,AMS,Beta-120275,11530,50,Miracle- Forenbaher 2000,14.1539,45.3141,1
+Nugljanska pe?,8,Croatia,E,Late Epigravettian,OK,,AMS,Beta-127705,11520,90,Miracle- Forenbaher 2000,14.0054,45.42896,1
+?andalja II,C/s,Croatia,E,Late Epigravettian,OK,,AMS,oxA-26870,11515,50,Oros Sr?en et al. 2014,13.8967,44.8825,5
+Grotta Continenza,35,Italy,W,Late Epigravettian,OK,ER2,non-AMS,R-1198,11500,120,Boschian et al. 2017,13.5333,41.95,2
+Riparo Dalmeri,15,Italy,W,Late Epigravettian,OK,ER3,non-AMS,KIA-20341,11450,50,see Naudinot et al. 2014,11.60222,45.99361,2
+Grotta Paglicci,3a,Italy,W,Late Epigravettian,OK,,non-AMS,F-94,11440,180,Radiocarbon 1977,15.615192,41.653984,2
+Konispol,28 (trench VIII),Albania,E,Late Epigravettian?,?,,non-AMS,Beta-5643 ,11410,80,Petruso et al. 1994,20.1667,39.65,3
+Ve?anska pe?,II/3,Croatia,E,Late Epigravettian,OK,,AMS,Beta-127706,11410,90,Miracle- Forenbaher 2000,14.1539,45.3141,1
+Grotta Romanelli,D,Italy,W,Late Epigravettian,OK,,AMS,LTL17737A,11409,85,Calcagnile et al. 2019,18.493,40.143,1
+Val Lastari,3B,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-1773,11390,110,see Naudinot et al. 2014,11.354,45.7966,1
+Ljubi?eva pecina,Horizon C (niveau 3),Croatia,E,Late Epigravettian,OK,,AMS,GrA 40926,11350,50,Percan- Kom?o- Beki? 2009;  Simonet 2013,13.9518,44.9718,1
+Grotta delle Mura,LM 3 a-b,Italy,W,Late Epigravettian,OK,,AMS,?,11330,100,see Fiorentino and Parra 2012,17.3,40.95,1
+Le Viotte,M117I,Italy,W,Late Epigravettian,OK,,AMS,UtC-13418,11320,70,see Naudinot et al. 2014,11.05092,46.03395,1
+Vlakno cave,Stratum 5,Croatia,E,Late Epigravettian,OK,,AMS,Z-3932,11300,150,Cvitkusic et al. 2018 (QI),15.0302,44.03321,1
+Riparo Dalmeri,14,Italy,W,Late Epigravettian,OK,ER3,non-AMS,KlA-3634,11260,100,see Naudinot et al. 2014,11.60222,45.99361,2
+Verdi di  Pradis  R.I,1b,Italy,W,Late Epigravettian,OK,,non-AMS,F-85,11250,310,see Naudinot et al. 2014,12.9313,46.2358,5
+Riparo Dalmeri,26e,Italy,W,Late Epigravettian,OK,ER3,non-AMS,R-657,11250,100,see Naudinot et al. 2014,11.60222,45.99361,2
+Boila,horizon IIIb,Greece,E,Late Epigravettian,OK,,AMS,DEM-415-371,11173,453,Kotjabopoulou et al. 1997; 1999,20.658938,39.966382,1
+Nugljanska pe?,6,Croatia,E,Late Epigravettian,OK,,AMS,OxA-X-2462-26,11160,50,Pilaar Birch- Miracle 2015,14.0054,45.42896,1
+Pupi?ina pe?,207,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-2636,11160,270,Miracle 2001,14.26367,45.35845,5
+Savudrija,D,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-488,11155,209,Malez- Poje 1976; Malez- Sliep?evi?- Srdo? 1979,,,5
+Biarzo,5,Italy,W,Late Epigravettian,OK,,non-AMS,R-1850,11150,150,see Naudinot et al. 2014,13.4967,46.1322,2
+Pupi?ina pe?,373.1 (Horizon U+V),Croatia,E,Late Epigravettian,OK,,AMS,Beta-145095,11150,80,Miracle 2005,14.26367,45.35845,1
+Riparo Dalmeri,26b,Italy,W,Late Epigravettian,OK,ER3,AMS,UtC-6777,11100,60,see Naudinot et al. 2014,11.60222,45.99361,1
+Blazi cave,2-3 (trench 5),Albania,E,Late Epigravettian,OK,,AMS,Beta-426508,11100,40,Hauck et al. 2017,20.01013,41.71206,5
+Grotta Scaloria,Trench 8- Level 9,Italy,W,Late Epigravettian,?,,non-AMS,LJ-4979,11040,190,Linick- 1984,15.9167,41.6333,3
+?andalja II,B/s,Croatia,E,Late Epigravettian,OK,,AMS,KIA-23489,11025,60,Richards et al. 2015,13.8967,44.8825,1
+Val Lastari,3B,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-2041,11010,90,see Naudinot et al. 2014,11.354,45.7966,1
+Riparo Dalmeri,26b,Italy,W,Late Epigravettian,OK,ER3,non-AMS,R-426,11000,115,see Naudinot et al. 2014,11.60222,45.99361,2
+?andalja II,B/d,Croatia,E,Late Epigravettian,OK,,AMS,CAMS-12062,10990,60,Miracle 1995,13.8967,44.8825,5
+Grotta Romanelli,D,Italy,W,Late Epigravettian,OK,,AMS,LTL17294A,10990,50,Calcagnile et al. 2019,18.493,40.143,1
+Verdi di  Pradis  R.I,1b,Italy,W,Late Epigravettian,OK,,non-AMS,F-86,10970,290,see Naudinot et al. 2014,12.9313,46.2358,5
+Vlakno cave,Stratum 4,Croatia,E,Late Epigravettian,OK,,AMS,Beta-363142,10970,50,Cvitkusic et al. 2018 (QI),15.0302,44.03321,1
+Romualdova pe?ina,Rock art IAC,Croatia,E,Late Epigravettian,?,,AMS,Beta-465337,10880,30,Ruiz-Redondo et al. 2019,13.7373,45.1275,4
+Grotta delle Mura,LM 3 a-b,Italy,W,Late Epigravettian,OK,,AMS,UtC-1462,10850,100,see Fiorentino and Parra 2012,17.3,40.95,1
+?andalja II,B/g,Croatia,E,Late Epigravettian,OK,,non-AMS,GrN-4976,10830,50,Malez- Vogel 1969,13.8967,44.8825,3
+Riparo Dalmeri,14b,Italy,W,Late Epigravettian,OK,ER3,non-AMS,R-425,10800,110,see Naudinot et al. 2014,11.60222,45.99361,5
+Grotta Scaloria,Trench 8- Level 8,Italy,W,Late Epigravettian,?,,non-AMS,LJ-4978,10790,210,Linick- 1984,15.9167,41.6333,3
+Grotta di Paina,5,Italy,W,Late Epigravettian,OK,,AMS,UtC-2698,10760,100,see Naudinot et al. 2014,11.5309,45.4405,1
+Grotta Continenza,41,Italy,W,Late Epigravettian,OK,ER2,AMS,LY-10753,10760,140,Boschian et al. 2017,13.5333,41.95,1
+Cogola,19,Italy,W,Late Epigravettian,OK,ER3,AMS,UtC-9287,10640,60,see Naudinot et al. 2014,11.2167,45.9333,1
+Grotta Romanelli,D,Italy,W,Late Epigravettian,OK,,non-AMS,GrN-2055,10640,100,Milliken 1998,18.493,40.143,5
+Pupi?ina pe?,31-32-34,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-2574,10610,200,Miracle 1997,14.26367,45.35845,2
+Grotta La Punta,Taglio 26,Italy,W,Late Epigravettian,OK,,non-AMS,PI-153,10581,100,,13.51667,42.01667,2
+Boila,horizon IIIb (scree),Greece,E,Late Epigravettian,OK,,AMS,OxA-5245,10560,110,Kotjabopoulou et al. 1997 (in Bailey 1997),20.658938,39.966382,1
+Grotta delle Mura,LM 3 a-b,Italy,W,Late Epigravettian,OK,,AMS,?,10540,140,see Fiorentino and Parra 2012,17.3,40.95,1
+Soman,sup,Italy,W,Late Epigravettian,OK,,non-AMS,Gd-4511,10510,180,see Naudinot et al. 2014,10.8616,45.5993,2
+Soman,sup,Italy,W,Late Epigravettian,OK,,non-AMS,Gd-6159,10470,150,see Naudinot et al. 2014,10.8616,45.5993,2
+Le Regole 1,2,Italy,W,Late Epigravettian,OK,,AMS,KIA-14195,10445,32,see Naudinot et al. 2014,11.0985,46.4405,1
+Bus  de La Lum,2,Italy,W,Late Epigravettian,OK,,AMS,UtC-8912,10430,50,see Naudinot et al. 2014,12.4395,46.0396,1
+Grotta Maritza,US 30,Italy,W,Late Epigravettian,OK,,non-AMS,R-1270,10420,60,,13.42562,42.02841,2
+Grotta Maritza,Burial,Italy,W,Late Epigravettian,OK,,non-AMS,R-1271,10420,100,Cremonesi and Radmilli 1964,13.42562,42.02841,2
+Klithi,stratum 0010,Greece,E,Epigravettian,?,,AMS,OxA-542,10420,150,Bailey and Gamble 1990,20.66364,39.968089,4
+Cogola,19,Italy,W,Late Epigravettian,OK,ER3,AMS,UtC-9286,10380,70,see Naudinot et al. 2014,11.2167,45.9333,1
+Vlakno cave,Stratum 4,Croatia,E,Late Epigravettian,OK,,AMS,Beta-416303,10380,40,Cvitkusic et al. 2018 (QI),15.0302,44.03321,1
+Le Regole 2,2,Italy,W,Late Epigravettian,OK,,AMS,KIA-14196,10373,32,see Naudinot et al. 2014,11.0985,46.4405,1
+Soman,sup,Italy,W,Late Epigravettian,OK,,non-AMS,Gd-6163,10370,110,see Naudinot et al. 2014,10.8616,45.5993,2
+Cava Romita,US D2-1,Italy,W,Late Epigravettian,OK,,AMS,UtC-11552,10350,60,Sala- 2009,13.2,43.0667,1
+Palu Echen,7,Italy,W,Late Epigravettian,?,,AMS,UtC-13428,10320,60,see Naudinot et al. 2014,11.1878,45.87372,3
+Grotta di Pozzo,?,Italy,W,Late Epigravettian,?,,AMS,To-3423,10290,80,Serradimigni- 2013,13.64,41.95,3
+Val Lastari,3D-Str. V,Italy,W,Late Epigravettian,OK,ER2,AMS,UtC-2685,10280,110,see Naudinot et al. 2014,11.354,45.7966,5
+Pupi?ina pe?,Horizon S,Croatia,E,Late Epigravettian,OK,,AMS,Beta-188919,10280,50,Miracle 2005,14.26367,45.35845,1
+Vlakno cave,Stratum 4,Croatia,E,Late Epigravettian,OK,,AMS,Beta-423618,10270,40,Cvitkusic et al. 2018 (QI),15.0302,44.03321,1
+Boila,horizon IIIb (scree),Greece,E,Late Epigravettian,OK,,AMS,OxA-5243,10190,90,Kotjabopoulou et al. 1997 (in Bailey 1997),20.658938,39.966382,1
+Vlakno cave,Stratum 4 (L. 10),Croatia,E,Late Epigravettian,OK,,non-AMS,Z-3383,10160,100,Brusi?  2005,15.0302,44.03321,3
+Pupi?ina pe?,33,Croatia,E,Late Epigravettian,OK,,AMS,Beta-131626,10150,60,Miracle 2001,14.26367,45.35845,1
+Pupi?ina pe?,39.1 (Horizon T2b),Croatia,E,Late Epigravettian,OK,,AMS,oxA-8449,10140,180,Miracle 2005,14.26367,45.35845,1
+?andalja II,B/d,Croatia,E,Late Epigravettian,OK,,non-AMS,Z-2421,10140,160,Obeli?  et al. 1994,13.8967,44.8825,5
+Cava Romita,US C6,Italy,W,Late Epigravettian,?,,non-AMS,LTL201A,10020,65,Guerreschi et al. 2005,13.2,43.0667,3
+?andalja II,B/g,Croatia,E,Late Epigravettian,OK,,AMS,oxA-26873,8251,39,Oros Sr?en et al. 2014,13.8967,44.8825,5
+Klithi,stratum 0020,Greece,E,Epigravettian,?,,AMS,OxA-747,3560,1000,Bailey and Gamble 1990,20.66364,39.968089,5
